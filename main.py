@@ -52,7 +52,7 @@ import requests as _requests
 # 📡  AXANCTUM INTELLIGENCE 911 — Dashboard Simulation
 # ═══════════════════════════════════════════════════════════════════════
 # URL ini diupdate otomatis oleh start.sh setiap kali ngrok di-restart
-DASHBOARD_URL = "https://web-production-520bd.up.railway.app"
+DASHBOARD_URL = "https://sanctum2-production.up.railway.app"
 
 def send_signal_to_dashboard(symbol, direction, entry, tp, sl, grade="B", leverage=5):
     """Kirim sinyal ke dashboard simulasi. Tidak crash bot kalau dashboard offline."""
