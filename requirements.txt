@@ -1,0 +1,5 @@
+aiohttp
+numpy
+pandas>=2.2.0
+urllib3
+requests
