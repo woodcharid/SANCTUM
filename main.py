@@ -80,8 +80,8 @@ def send_signal_to_dashboard(symbol, direction, entry, tp, sl, grade="B", levera
 # ═══════════════════════════════════════════════════════════════════════
 CONFIG: Dict = {
     # ── Telegram ─────────────────────────────────────────────────────────
-    "TELEGRAM_TOKEN":   "8770070849:AAHHmQsjwxtwhuXqldVSYMsaxjURKuY7te0",
-    "TELEGRAM_CHAT_ID": "5938324882",
+    "TELEGRAM_TOKEN":   "8501185202:AAEJYqa-Vyo0kxhLedqTg2ml0NCYI8LWx3o",
+    "TELEGRAM_CHAT_ID": "6052270268",
 
     # ── 3-Cycle Settings ──────────────────────────────────────────────────
     # Setiap siklus punya batas koin dan minimum volume sendiri.
